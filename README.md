@@ -5,6 +5,7 @@ How does it develop students’ essential digital skills and awareness of respon
 
 # Task 1: 
 This task involves creating an infographic to demonstrate students' understanding of digital literacy using tools such as Canva or Prezi. Through this visual representation of the key elements of digital literacy (digital tools, using the internet safely, and creating a professional online presence), students will have a more in depth understanding of each component.
+[Click here to view my infographic](https://prezi.com/view/ltfaEh43pnsD6C0mUU7U/)
 
 # Task 2:
 This task focuses on creating digital portfolios by setting up profiles on GitHub and LinkedIn. This activity emphasises the importance of developing and maintaining a professional online presence (through social media and other websites) when preparing for future employment opportunities.
