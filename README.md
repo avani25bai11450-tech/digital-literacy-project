@@ -11,7 +11,7 @@ This task focuses on creating digital portfolios by setting up profiles on GitHu
 
 # Task 3:
 This task exposes students to coding and collaboration tools. Students will have an opportunity to learn the basics of coding by engaging with HackerRank and will also create a Google Form to help them better understand how to collaborate and collect data digitally.
-
+[Click here to view my infographic](https://prezi.com/view/ltfaEh43pnsD6C0mUU7U/)
 
 # Task 4:
 This task encourages students to draft a professional email and develop a checklist for social media etiquette. By participating in these activities, students will learn the proper standards for online behaviour and associated standards for professional communication.
