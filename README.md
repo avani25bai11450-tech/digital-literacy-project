@@ -1,5 +1,7 @@
-Avani khare
-Reg no.-25BAI11450
+# Digital Literacy Project Overview
+
+**Name:** Avani Khare  
+**Registration No.:** 25BAI11450
 # Digital Literacy-
 How does it develop students’ essential digital skills and awareness of responsible behaviours? Digital literacy is the ability to use digital tools, technologies and online platforms in a safe, effective and responsible way. The world today is driven by technology; therefore, digital literacy is an important part of how students learn, communicate and develop. This project will help students develop the essential skills and knowledge they need for effective digital use. There are five modules in this project designed to teach students the knowledge and skills to use digital technologies appropriately and responsibly.
 
